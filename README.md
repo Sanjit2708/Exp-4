@@ -42,4 +42,4 @@ Communication diagram:
 
 
 # RESULT:
-Thus, the UML diagrams for RAILWAY MANAGEMENT SYSTEM has been created successfully.
+Thus, the UML diagrams for HOSPITAL MANAGEMENT SYSTEM has been created successfully.
